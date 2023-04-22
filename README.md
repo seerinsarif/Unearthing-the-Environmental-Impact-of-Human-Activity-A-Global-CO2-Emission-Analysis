@@ -1,1 +1,8 @@
 # Unearthing-the-Environmental-Impact-of-Human-Activity-A-Global-CO2-Emission-Analysis
+
+
+Dashboard link :https://public.tableau.com/views/Dashboard200423/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+story link :https://public.tableau.com/views/Story210423/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+video link :https://drive.google.com/file/d/1-2JkC2sqxxWyixy9ufNsmpfQMEzRWCSy/view?usp=drivesdk
